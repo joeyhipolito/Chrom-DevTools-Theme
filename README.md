@@ -9,7 +9,7 @@ Most of the code are shameless copied from other repositories, and I happened to
 **copy/paste on your shell**
 #### Chromium on ubuntu
 ```
-curl -o ~/.config/chromium/Default/User\ StyleSheets/Custom.css https://raw.github.com/joeyhipolito/Chrom-DevTools-Theme/master/Custom.css
+curl -o ~/.config/chromium/Default/User\ StyleSheets/Custom.css https://raw.github.com/joeyhipolito/Chrome-DevTools-Theme/master/Custom.css
 ```
 
 
