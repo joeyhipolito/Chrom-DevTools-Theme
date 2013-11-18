@@ -6,6 +6,13 @@ Most of the code are shameless copied from other repositories, and I happened to
 
 ## Installation instructions
 
+**copy/paste on your shell**
+#### Chromium on ubuntu
+```
+curl -o ~/.config/chromium/Default/User\ StyleSheets/Custom.css https://raw.github.com/joeyhipolito/Chrom-DevTools-Theme/master/Custom.css
+```
+
+
 Thanks to the following people
 * [Paul Irish](https://github.com/paulirish/)
 * [Maurice Cruz](https://github.com/mauricecruz/)
